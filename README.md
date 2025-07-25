@@ -30,5 +30,5 @@ This work introduces a predictive pipeline that identifies binge-watching tenden
 
 1. **Clone the repository**  
    ```bash
-   https://github.com/KSSRUTHI/Auto-Binge-Predictor-Early-Prediction-of-Binge-Watching-Behavior-.git
+   git clone https://github.com/KSSRUTHI/Auto-Binge-Predictor-Early-Prediction-of-Binge-Watching-Behavior-.git
    cd auto-binge-predictor
